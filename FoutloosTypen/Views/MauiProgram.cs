@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace FoutloosTypen
+namespace FoutloosTypen.Views
 {
     public static class MauiProgram
     {
